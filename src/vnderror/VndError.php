@@ -9,7 +9,7 @@
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace hibrid\VndError;
+namespace vnderror\VndError;
 
 use Nocarrier\Hal;
 
